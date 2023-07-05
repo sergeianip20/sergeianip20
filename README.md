@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ЦВЕТ ЛОГОТИПА" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=avajs&logoColor=ЦВЕТ ЛОГОТИПА" />
 <!--
 **sergeianip20/sergeianip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
