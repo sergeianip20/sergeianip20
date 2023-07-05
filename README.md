@@ -1,6 +1,6 @@
 ### Hi there 👋
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red />
-<!--
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&red" />
+<!--"
 **sergeianip20/sergeianip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
