@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="sergeianip20@gmail.com*">  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> </a>
+<a href="">  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> </a>
  <a href="https://t.me/sergeianip"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
 </p>
 
