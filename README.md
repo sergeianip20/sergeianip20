@@ -24,6 +24,7 @@
 
   <img src="https://github.com/sergeianip20/sergeianip20/blob/main/assets/codes.jpg" />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sergeianip20=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sergeianip20=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--"
 **sergeianip20/sergeianip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
