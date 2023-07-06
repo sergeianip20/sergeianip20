@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Header](https://github.com/sergeianip20/sergeianip20/blob/main/assets/MyName.png)
+
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&red" />
+   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&red" />
 <!--"
 **sergeianip20/sergeianip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
