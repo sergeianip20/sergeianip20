@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a>  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> </a>
- <a> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
+<a href="">  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> </a>
+ <a href="https://t.me/sergeianip"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
