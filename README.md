@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://2-flax-theta.vercel.app/](https://2-flax-theta.vercel.app/)
 
-- 💬 Ask me about **React , Typescript**
+- 💬 Ask me about **React , Typescript, JavaScript**
 
 - 📫 How to reach me **sergeianip20@gmail.com**
 
