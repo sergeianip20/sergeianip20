@@ -16,6 +16,7 @@
 <p align="left">
 <a href="">  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> </a>
  <a href="https://t.me/sergeianip"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
+ <a href="https://vk.com/sergei2197"><img  src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
