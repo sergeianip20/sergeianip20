@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
