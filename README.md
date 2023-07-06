@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">Frontend developer, Россия</h3>
+<h3 align="center">Frontend developer, Russia</h3>
 
 - 🔭 I’m currently working on **Todolist, Social Network, Card**
 
